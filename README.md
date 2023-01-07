@@ -6,8 +6,8 @@ CI refers to Continuous Integration in app development. It is an automated proce
 
 ##### Tools Used
 
-GitLab <br />
-Atlassian Bamboo <br />
-Jenkins <br />
+[GitLab](https://about.gitlab.com/) <br />
+[Atlassian Bamboo](https://www.atlassian.com/software/bamboo) <br />
+[Jenkins](https://www.jenkins.io/download/) <br />
 
 Use of these tools help minimize human error and streamline the process of software release.
